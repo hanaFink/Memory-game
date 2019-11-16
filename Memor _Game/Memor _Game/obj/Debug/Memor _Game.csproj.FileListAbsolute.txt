@@ -1,0 +1,7 @@
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\bin\Debug\Memor _Game.exe.config
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\bin\Debug\Memor _Game.exe
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\bin\Debug\Memor _Game.pdb
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\obj\Debug\Memor _Game.csprojAssemblyReference.cache
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\obj\Debug\Memor _Game.csproj.CoreCompileInputs.cache
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\obj\Debug\Memor _Game.exe
+C:\Users\kemro\source\repos\Memor _Game\Memor _Game\obj\Debug\Memor _Game.pdb
